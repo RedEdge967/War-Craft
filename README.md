@@ -5,7 +5,9 @@
 It's me. I made a war game using python. I got this Idea from https://code-projects.org .<br>
 It's a war happening i the sky with spacecrafts. It is easy to play. I hope you enjoy this game.
 Get the Latest release in <a href="https://www.github.com/RedEdge967/RedEdge967-War-Craft/Releases">Here.</a>
-  
+
+`you will need python to run this game`
+
 Have a nice day!!👋🏻👋🏻
 
 <h2>Controls</h2>
